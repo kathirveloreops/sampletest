@@ -1,0 +1,6 @@
+{
+  "BaseDir": "/app/",
+  "BaseSrcPath": "/app/source/",
+  "ErrologPath": "/app/logfiles/",
+  "AppVersion": "2.1"
+}
